@@ -1,0 +1,171 @@
+h1 {
+	padding: 0 5px;
+	background: #eed;
+	text-shadow: 1px 1px 0 #fff;
+	border: 1px #bbb solid;
+	color: #666;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 5px;
+}
+
+h2 {
+	color: #555;
+	/*  text-shadow: 0 1px 1px rgba(255, 255, 255, 1);*/
+	font-size: 16px;
+	font-weight: 600;
+	width: 100%;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 2px;
+	margin-bottom: 18px;
+	text-shadow: 2px 2px 0 #fff;
+}
+
+div.columnaCentral {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	background-color: #FFFFFF;
+	font-family: "arial", "Trebuchet MS", sans-serif;
+	font-size: 14px;
+	color: #555555;
+	width: 100%;
+	margin: 0px;
+	padding: 10px 30px 0px 50px;
+	border: 0px solid;
+	top: 0px;
+	float: left;
+}
+
+div.columnaCentral h1 {
+	font-size: 16px;
+}
+
+div.columnaCentral h2 {
+	font-size: 15px;
+}
+
+div.titulo {
+	color: #555555;
+	width: 630px;
+	padding: 0px 5px 0px 5px;
+}
+
+div.divContenido {
+	color: #555555;
+	width: 100%;
+	padding: 0px 5px 0px 5px;
+}
+
+div.columnaDerecha {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	background: url(../imagen/contenido_0_1.jpg) no-repeat top right;
+	height: 747px;
+	width: 265px;
+	margin: 0px;
+	float: left;
+	border-width: 0px;
+	border-style: solid;
+	height: 747px;
+}
+
+div.columnaIzquierda {
+	margin: 0px 7px 0px 0px;
+}
+
+div.columnaDerecha {
+	margin: 0px 0px 0px 0px;
+}
+
+table.tablaComite td {
+	padding: 0px 20px 10px 20px;
+	border-width: 0px 1px 0px 0px;
+	border-style: dotted;
+	border-color: #9a4040;
+}
+
+table.tablaComite {
+	margin: 0 auto;
+	width: 600px;
+}
+
+table.tablaComite .celdaImagen {
+	width: 100px;
+}
+
+img.imagenComite {
+	-o-box-shadow: 12px 12px 29px #555;
+	-icab-box-shadow: 12px 12px 29px #555;
+	-khtml-box-shadow: 12px 12px 29px #555;
+	-moz-box-shadow: 12px 12px 29px #555;
+	-webkit-box-shadow: 12px 12px 29px #555;
+	box-shadow: 12px 12px 29px #555;
+}
+
+table.tablaCalendario td {
+	border-width: 1px 1px 1px 1px;
+	border-style: solid;
+	border-color: #555;
+	color: #555555;
+	text-align: center;
+}
+
+table.tablaCalendario th {
+	font-size: 12px;
+	border-width: 1px 1px 1px 1px;
+	border-style: solid;
+	border-color: #555555;
+	text-align: center;
+	color: #555555;
+}
+
+table.tablaCalendario {
+	font-size: 11px;
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+.contenidoInterior {
+	padding: 10px 15px;
+	border: 0px;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	border-style: solid;
+	font-family: "arial", "Trebuchet MS", sans-serif;
+	font-size: 12px;
+}
+
+table.tablaContenido {
+	font-size: 11px;
+	font-family: "Arial", Verdana, Trebuchet MS, Helvetica, sans-serif;
+	border: 0px;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	border-style: solid;
+	background-repeat: repeat-x;
+}
+
+table.tablaContenido td {
+	border: 0px solid;
+	text-align: left;
+	vertical-align: top;
+}
+
+table.tablaGeneral {
+	font-size: 11px;
+	font-family: "Arial", Verdana, Trebuchet MS, Helvetica, sans-serif;
+	border: 1px;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	border-style: solid;
+	background-repeat: repeat-x;
+}
+
+table.tablaGeneral td {
+	border: 1px solid;
+	text-align: left;
+	vertical-align: top;
+	padding:10px;
+}

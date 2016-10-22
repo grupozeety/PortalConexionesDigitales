@@ -220,6 +220,11 @@ ul.nostyle i {
     background-color: transparent;
   }
 }
+
+#mainvideo-slider {
+  padding: 50px 0 75px;
+}
+
 #main-slider {
   overflow: hidden;
 }
@@ -319,6 +324,10 @@ ul.nostyle i {
 }
 #cta2 h2 > span {
   color: #45aed6;
+}
+
+#ticconfio {
+  padding: 50px 0;
 }
 #features {
   padding: 100px 0;

@@ -970,10 +970,10 @@ ul.nostyle i {
 @media(max-width:767px){
 
 	#main-slider .item {
-	  height: 390px;
+	  height: 400px;
 	  background-repeat: no-repeat;
 	  background-position: 50% 0;
-	  background-size: 98%;
+	  background-size: 100%;
 	}
 	
 	#imagen1{

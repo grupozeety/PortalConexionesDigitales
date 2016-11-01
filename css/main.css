@@ -968,12 +968,12 @@ ul.nostyle i {
 
 /* Extra Small */
 @media(max-width:767px){
-	
+
 	#main-slider .item {
 	  height: 450px;
 	  background-repeat: no-repeat;
 	  background-position: 50% 0;
-	  background-size: cover;
+	  background-size: auto;
 	}
 	
 	#ticconfio {

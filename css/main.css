@@ -976,6 +976,14 @@ ul.nostyle i {
 	  background-size: 100%;
 	}
 	
+	#encabezadoTIC{
+	  font-size: 24px;
+	  color: #272727;
+	  position: relative;
+	  padding-bottom: 20px;
+	  margin: 5px 0 20px;			
+	}
+	
 	#imagen1{
 	background-image: url('../images/slider/bg1small.jpg');	
 	}

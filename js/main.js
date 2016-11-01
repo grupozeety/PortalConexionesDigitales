@@ -7,9 +7,11 @@ jQuery(function($) {'use strict';
 
 	$('.navbar-collapse ul li a').on('click', function() {  
 		$('html, body').animate({scrollTop: $(this.hash).offset().top - 5}, 1000);
+		$('.navbar-collapse.in').collapse('hide');
+		
 		return false;
 	});
-
+	
 	// User define function
 	function Scroll() {
 		var contentTop      =   [];

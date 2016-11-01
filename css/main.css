@@ -327,7 +327,7 @@ ul.nostyle i {
 }
 
 #ticconfio {
-  padding: 50px 0;
+  
 }
 #features {
   padding: 100px 0;
@@ -954,4 +954,27 @@ ul.nostyle i {
 .form-control {
   box-shadow: none;
   -webkit-box-shadow: none;
+}
+/*******************
+*******Slider********
+*********************/
+
+#imagen1{
+	background-image: url('../images/slider/bg1.jpg');
+}
+
+#imagen2{
+	background-image: url('../images/slider/bg2.jpg');
+}
+
+
+/* Extra Small */
+@media(max-width:767px){
+	#imagen1{
+	background-image: url('../images/slider/bg1small.jpg');	
+	}
+	
+	#imagen2{
+	background-image: url('../images/slider/bg2small.jpg');	
+	}
 }

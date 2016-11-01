@@ -326,9 +326,7 @@ ul.nostyle i {
   color: #45aed6;
 }
 
-#ticconfio {
-  
-}
+
 #features {
   padding: 100px 0;
 }
@@ -972,7 +970,14 @@ ul.nostyle i {
 @media(max-width:767px){
 	
 	#main-slider .item {
-	  height: 500px;
+	  height: 450px;
+	  background-repeat: no-repeat;
+	  background-position: 50% 0;
+	  background-size: cover;
+	}
+	
+	#ticconfio {
+  		padding:50px 0;
 	}
 	
 	#imagen1{

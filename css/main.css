@@ -970,7 +970,7 @@ ul.nostyle i {
 @media(max-width:767px){
 
 	#main-slider .item {
-	  height: 400px;
+	  height: 350px;
 	  background-repeat: no-repeat;
 	  background-position: 50% 0;
 	  background-size: 100%;
@@ -982,5 +982,5 @@ ul.nostyle i {
 	
 	#imagen2{
 	background-image: url('../images/slider/bg2small.jpg');	
-	}
+	}	
 }

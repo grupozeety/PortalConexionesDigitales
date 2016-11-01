@@ -970,6 +970,11 @@ ul.nostyle i {
 
 /* Extra Small */
 @media(max-width:767px){
+	
+	#main-slider .item {
+	  height: 500px;
+	}
+	
 	#imagen1{
 	background-image: url('../images/slider/bg1small.jpg');	
 	}

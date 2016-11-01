@@ -968,6 +968,12 @@ ul.nostyle i {
 
 /* Extra Small */
 @media(max-width:767px){
+	
+	.adaptado{
+		display:none;
+		visibility: hidden;
+		height: 0%;			
+	}
 
 	#main-slider .item {
 	  height: 350px;
@@ -991,4 +997,6 @@ ul.nostyle i {
 	#imagen2{
 	background-image: url('../images/slider/bg2small.jpg');	
 	}	
+	
+	
 }
